@@ -3,16 +3,29 @@
 
 ### Problem Statement
 
-An online learning university offers free online courses worldwide. Every student that signs up for the course must take an admission quiz and obtain a certain percentage in order to join the course. Some students only signs up and never takes an admission quize which mean they do not join the course.
+An online learning university offers free online courses worldwide. Every student that signs up for the course must take an admission quiz and obtain a certain percentage in order to join the course. Some students only sign-up and never take an admission quize which means they do not join the course.
 
 The University would like to know if sending a reminder email to those applicants who haven't taken the quiz will have a positive impact on quize completion rate.
 
+### project objectives:
+
+* Show my ability to query a NoSQL database
+* Show my ability to perform ETL
+* My ability to use statistical analysis to improve process and help businesses drive revenue.
+
+
 ### Data Source
 
-Data is very synthetic. Please go easy on me I haven't done any CTGAN just read a bit.
+Due to the scarcity of data. I decided to generate my own synthetic data though it's not close to good but it serves the purpose. 
 
-In this project I used an ancient way of generating synthetic data. Most of the distributions are very far from reality they're work in progress.
+I generated this data and uploaded it to a MOngoDB database in the cloud. w
+
+In this project I used an ancient way of generating synthetic data. I believe I could get away with this with online app that used CTGAN to gener :Pate sythentic data but that is not motivational for a data scientist in making :)
 
 ### Data Types
 
 The data is both categorical and numerical
+
+Areas of Improvement:
+Learn to generate data that is close to reality. For example, "Education" feature is far from reality. 
+NB! I am not doing a lot of analysis because the data isn't real and the distrinutions are bad.
