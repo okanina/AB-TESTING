@@ -9,9 +9,7 @@ The University would like to know if sending a reminder email to those applicant
 
 ### project objectives:
 
-* Show my ability to query a NoSQL database
-* Show my ability to perform ETL
-* My ability to use statistical analysis to improve process and help businesses drive revenue.
+Nothing much project was done in class but data was not made available publicly.
 
 
 ### Data Source
