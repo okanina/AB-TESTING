@@ -18,8 +18,7 @@ Due to the scarcity of data. I decided to generate my own synthetic data though 
 
 I generated this data and uploaded it to a MOngoDB database in the cloud. w
 
-In this project I used an ancient way of generating synthetic data. I believe I could get away with this with online app that used CTGAN to gener :Pate sythentic data but that is not motivational for a data scientist in making :)
-
+In this project I used an ancient way of generating synthetic data. 
 ### Data Types
 
 The data is both categorical and numerical
