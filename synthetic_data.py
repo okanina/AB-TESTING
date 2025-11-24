@@ -102,7 +102,7 @@ def generate_student_data(num_of_obs:int):
     
     if not os.path.exists("data/students_data.csv"):
           os.makedirs("data", exist_ok=True)
-    df.to_csv("data/students_data.csv")
+    df.to_csv("data/students_data.csv", index=False)
 
 if __name__ =="__main__":
     generate_student_data(6000)
