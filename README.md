@@ -3,9 +3,11 @@
 
 ### Problem Statement
 
-An online learning university offers free online courses worldwide. Every student that signs up for the course must take an admission quiz and obtain a certain percentage in order to join the course. Some students only sign-up and never take an admission quize which means they do not join the course.
+An online learning university offers free online courses worldwide. Every student that signs up for the course must take an admission quiz and obtain a certain percentage in order to join the course. Some students only sign-up and never take an admission quiz which means they do not join the course.
 
-The University would like to know if sending a reminder email to those applicants who haven't taken the quiz will have a positive impact on quize completion rate.
+The University would like to know if sending a reminder email to those applicants who haven't taken the quiz will have a positive impact on quiz completion rate.
+
+In other words, this project is testing sending an email will have an positive impact on quiz completion rate.(**Test of Independence**)
 
 ### project objectives:
 
